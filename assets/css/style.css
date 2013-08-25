@@ -8,7 +8,7 @@ body {
 }
 a {
   color: #0088cc;
-  text-decoration: none;
+  text-decoration: underline;
 }
 a:hover {
   color: #005580;
@@ -22,7 +22,7 @@ div {
   background-attachment: fixed;
 }
 .container {
-  width: 70%;
+  width: 75%;
   margin: 0 auto;
   padding: 45px 0 28px;
   overflow: hidden;
@@ -34,21 +34,21 @@ div {
   background-size: cover;
 }
 .bg1 {
-  background: #000000 url("/assets/img/1.jpg") no-repeat center center fixed;
+  background: #000000 url("http://l.yimg.com/g/images/sohp_hero.jpg.v2") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg2 {
-  background: #000000 url("/assets/img/2.jpg") no-repeat center center fixed;
+  background: #000000 url("http://l.yimg.com/g/images/sohp_hero.jpg.v2") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 .bg3 {
-  background: #000000 url("/assets/img/3.jpg") no-repeat center center fixed;
+  background: #000000 url("http://l.yimg.com/g/images/sohp_hero.jpg.v2") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
